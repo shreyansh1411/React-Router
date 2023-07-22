@@ -1,0 +1,26 @@
+{
+  "details": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "Johm@gmail.com",
+      "phone": 789456123,
+      "country": "India"
+    },
+    {
+      "id": 2,
+      "name": "John Doe",
+      "email": "Sm@gmail.com",
+      "phone": 789456123,
+      "country": "India"
+    },
+   
+    {
+      "name": "Shreyansh",
+      "email": "shah@gmail.com",
+      "phone": "765164613",
+      "country": "india",
+      "id": 4
+    }
+  ]
+}
